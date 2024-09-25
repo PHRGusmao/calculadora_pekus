@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Pekus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insira_os_valores">Insira os valores</string>
+    <string name="by_phrgusmao_for_pekus">By PHRGusmao for PEKUS</string>
+    <string name="add">+</string>
+    <string name="multiple">*</string>
+    <string name="operadores">Operadores</string>
+    <string name="subt">-</string>
+    <string name="div">/</string>
+</resources>
